@@ -1,0 +1,660 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 5,
+        "name": "user can do the successful registration",
+        "description": "",
+        "id": "register;user-can-do-the-successful-registration",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 22631285400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user is on signup page",
+            "match": {
+              "location": "casestudy1.user_is_on_signup_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 144557200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user provides the uname as \"sudhanips\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"sudhanips\"",
+                  "offset": 27
+                }
+              ],
+              "location": "casestudy1.user_provides_the_uname_as(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 104854300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user provides the fname as \"jaya\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"jaya\"",
+                  "offset": 27
+                }
+              ],
+              "location": "casestudy1.user_provides_the_fname_as(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 98259800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user provides the lname as \"sudha\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"sudha\"",
+                  "offset": 27
+                }
+              ],
+              "location": "casestudy1.user_provides_the_lname_as(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 151612000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user provides the pwd as \"Bala123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Bala123\"",
+                  "offset": 25
+                }
+              ],
+              "location": "casestudy1.user_provides_the_pwd_as(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 151903800,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user provides the cpwd as \"Bala123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Bala123\"",
+                  "offset": 26
+                }
+              ],
+              "location": "casestudy1.user_provides_the_cpwd_as(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5110298900,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user provides the gender",
+            "match": {
+              "location": "casestudy1.user_provides_the_gender()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4055174300,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user provides the mail as \"balamurugan123@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"balamurugan123@gmail.com\"",
+                  "offset": 26
+                }
+              ],
+              "location": "casestudy1.user_provides_the_mail_as(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 215011100,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user provides the num as \"9566110824\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"9566110824\"",
+                  "offset": 25
+                }
+              ],
+              "location": "casestudy1.user_provides_the_num_as(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 236672200,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user provides the dob as \"12/10/1998\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"12/10/1998\"",
+                  "offset": 25
+                }
+              ],
+              "location": "casestudy1.user_provides_the_dob_as(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 329605500,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user provides the address as \"no.4,3rd cross street, chennai\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"no.4,3rd cross street, chennai\"",
+                  "offset": 29
+                }
+              ],
+              "location": "casestudy1.user_provides_the_address_as(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 166900700,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user provides the seques",
+            "match": {
+              "location": "casestudy1.user_provides_the_seques()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1310150000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user provides the ans as \"Black\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Black\"",
+                  "offset": 25
+                }
+              ],
+              "location": "casestudy1.user_provides_the_ans_as(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 240554700,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user verifies the registration",
+            "match": {
+              "location": "casestudy1.user_verifies_the_registration()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Login"
+          }
+        ]
+      }
+    ],
+    "name": "Register",
+    "description": "",
+    "id": "register",
+    "keyword": "Feature",
+    "uri": "src/test/resources/skeleton/Login.feature",
+    "tags": [
+      {
+        "name": "@Login",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 13,
+        "name": "validate login",
+        "description": "",
+        "id": "login-with-multiple-users-using-examples;validate-login;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 17393644600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "open testme app",
+            "match": {
+              "location": "casestudy2.open_testme_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 182665600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user gives username as \"Lalitha\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Lalitha\"",
+                  "offset": 23
+                }
+              ],
+              "location": "casestudy2.user_gives_username_as(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 163172800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user gives password as \"password123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"password123\"",
+                  "offset": 23
+                }
+              ],
+              "location": "casestudy2.user_gives_password_as(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1871318700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user clicks login",
+            "match": {
+              "location": "casestudy2.user_clicks_login()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 246357800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user verifies login",
+            "match": {
+              "location": "casestudy2.user_verifies_login()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "validate login",
+        "description": "",
+        "id": "login-with-multiple-users-using-examples;validate-login;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 21367389900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "open testme app",
+            "match": {
+              "location": "casestudy2.open_testme_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 102230500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user gives username as \"aishsaran\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"aishsaran\"",
+                  "offset": 23
+                }
+              ],
+              "location": "casestudy2.user_gives_username_as(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 99891900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user gives password as \"aishusaran\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"aishusaran\"",
+                  "offset": 23
+                }
+              ],
+              "location": "casestudy2.user_gives_password_as(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 996433000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user clicks login",
+            "match": {
+              "location": "casestudy2.user_clicks_login()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 235956700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user verifies login",
+            "match": {
+              "location": "casestudy2.user_verifies_login()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "name": "validate login",
+        "description": "",
+        "id": "login-with-multiple-users-using-examples;validate-login;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 27152606600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "open testme app",
+            "match": {
+              "location": "casestudy2.open_testme_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 131501600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user gives username as \"aishusaran\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"aishusaran\"",
+                  "offset": 23
+                }
+              ],
+              "location": "casestudy2.user_gives_username_as(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 127504000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user gives password as \"harrypotter\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"harrypotter\"",
+                  "offset": 23
+                }
+              ],
+              "location": "casestudy2.user_gives_password_as(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 838783300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user clicks login",
+            "match": {
+              "location": "casestudy2.user_clicks_login()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 473240200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user verifies login",
+            "match": {
+              "location": "casestudy2.user_verifies_login()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "login with multiple users using examples",
+    "description": "",
+    "id": "login-with-multiple-users-using-examples",
+    "keyword": "Feature",
+    "uri": "src/test/resources/skeleton/examples.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 7,
+        "name": "Search engine",
+        "description": "",
+        "id": "product-search;search-engine",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 36059222500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Alex logins testme app",
+            "match": {
+              "location": "casestudy3.alex_logins_testme_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 41300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Alex searches the product",
+            "match": {
+              "location": "casestudy3.alex_searches_the_product()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 24700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Alex selects the product",
+            "match": {
+              "location": "casestudy3.alex_selects_the_product()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 34900,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Alex verifies the product",
+            "match": {
+              "location": "casestudy3.alex_verifies_the_product()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Product search",
+    "description": "Description: Alex wants to purchase a product and \nwhile searching, he must get products relevant to the \ncharacters he typed",
+    "id": "product-search",
+    "keyword": "Feature",
+    "uri": "src/test/resources/skeleton/typematch.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 6,
+        "name": "add to cart",
+        "description": "",
+        "id": "verify-add-to-cart;add-to-cart",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 45269909300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Alex opens the app",
+            "match": {
+              "location": "casestudy4.alex_opens_the_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1721601900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Alex search the product",
+            "match": {
+              "location": "casestudy4.alex_search_the_product()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 120200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Alex views the cart page",
+            "match": {
+              "location": "casestudy4.alex_views_the_cart_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 58200,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Alex verifies the alert message",
+            "match": {
+              "location": "casestudy4.alex_verifies_the_alert_message()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Verify add to cart",
+    "description": "Description: Alex didnt add any product to the cart \nand while viewing the cart page, it shows alert message",
+    "id": "verify-add-to-cart",
+    "keyword": "Feature",
+    "uri": "src/test/resources/skeleton/verify.feature",
+    "tags": []
+  }
+]
